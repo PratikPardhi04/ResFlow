@@ -1,8 +1,8 @@
-# AntiGravity (ResFlow) 🚀
+# ResFlow 🚀
 
 > **AI-Powered Career Intelligence & Resume Optimization Platform**
 
-AntiGravity is a premium AI career intelligence platform powered by Express, MongoDB, and Google Gemini. It parses resumes with technical accuracy, scores resumes across 5-dimensional metrics, performs gap analyses against targeted Job Descriptions (JDs), and runs a conversation-driven career coach state machine.
+ ResFlow is a premium AI career intelligence platform powered by Express, MongoDB, and Google Gemini. It parses resumes with technical accuracy, scores resumes across 5-dimensional metrics, performs gap analyses against targeted Job Descriptions (JDs), and runs a conversation-driven career coach state machine.
 
 ---
 
